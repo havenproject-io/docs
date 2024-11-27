@@ -37,8 +37,8 @@
     {
       "group": "Guides",
       "pages": [
-        "haven-match",
-        "saved-opportunities"
+        "guides/haven-match",
+        "guides/saved-opportunities"
       ]
     }
   ],
