@@ -38,7 +38,10 @@
       "group": "Guides",
       "pages": [
         "guides/haven-match",
-        "guides/saved-opportunities"
+        "guides/saved-opportunities",
+        "guides/contact-haven",
+        "guides/find-opportunities",
+        "guides/my-profile"
       ]
     }
   ],
