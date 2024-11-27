@@ -3,7 +3,7 @@
   "name": "Haven Project",
   "logo": {
     "dark": "/logo/haven_black_logo.png",
-    "light": "/logo/light.svg"
+    "light": "/logo/haven_black_logo.png"
   },
   "favicon": "/favicon.svg",
   "colors": {
